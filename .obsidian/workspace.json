@@ -11,12 +11,8 @@
             "id": "d1425cfa372616b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-1-Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,26 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Basic Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7509655eec925fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test Posting.md",
+                "file": "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Posting.md",
+                "file": "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Posting.md",
+                "file": "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Posting.md"
+                "file": "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md"
               }
             }
           }
@@ -172,9 +156,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7509655eec925fdb",
+  "active": "3be7c70f72301342",
   "lastOpenFiles": [
     "Templates/Basic Template.md",
+    "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
     "Test Posting.md",
     "2024-07-1-Untitled.md",
     "2024-07-10-test.md",

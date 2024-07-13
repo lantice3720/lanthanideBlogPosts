@@ -1,14 +1,13 @@
 ---
 title: ""
-linkTitle: ""
+linkTitle: 
 description: ""
 date: <% tp.date.now("YYYY-MM-DDTHH:mm:ss+09:00") %>
 draft: false
-aliases:
-    - 
+aliases: 
 weight: 10
 build:
-    list: always
-    publishResources: true
-    render: always
+  list: always
+  publishResources: true
+  render: always
 ---
