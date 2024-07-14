@@ -1,7 +1,11 @@
 ---
 title: Github Pages를 사용해 정적 웹 페이지 블로그 만들기
-linkTitle: static-blog-using-github-pages
 description: Github Pages에 Hugo의 정적 웹 페이지를 올려 개인용 블로그를 만들어 보자.
+tags:
+  - GithubPages
+  - Blog
+categories:
+  - Blog
 keywords:
   - Github
   - Github Pages

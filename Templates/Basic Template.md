@@ -3,7 +3,7 @@ title: ""
 description: ""
 keywords: 
 tags: []
-category: 
+categories: []
 date: <% tp.date.now("YYYY-MM-DDTHH:mm:ss+09:00") %>
 draft: false
 aliases: 
