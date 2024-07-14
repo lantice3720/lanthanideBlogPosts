@@ -1,9 +1,9 @@
 ---
-title: ""
+title: 
 description: ""
 keywords: 
-tags: []
-categories: []
+tags: 
+categories: 
 date: 2024-07-15T01:07:34+09:00
 draft: false
 aliases: 

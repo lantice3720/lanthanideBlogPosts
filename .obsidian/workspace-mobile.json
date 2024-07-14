@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
+                "file": "Test Posting.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
+            "file": "Test Posting.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
+            "file": "Test Posting.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md"
+            "file": "Test Posting.md"
           }
         }
       }
@@ -147,13 +147,18 @@
   },
   "active": "ac758fe4cc8877ad",
   "lastOpenFiles": [
+    "Untitled.md",
     "Test Posting.md",
+    "Templates/Basic Template.md",
+    "Remark42를 통한 댓글 시스템 구축.md",
     "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
+    "/Templates/Basic Template.md",
+    "/Remark42를 통한 댓글 시스템 구축.md",
+    "/Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
     "Untitled",
     "3024-07-10-Untitled.md",
     "2024-07-10-test.md",
     "2024-07-1-Untitled.md",
-    "Templates/Basic Template.md",
     "Templates"
   ]
 }
