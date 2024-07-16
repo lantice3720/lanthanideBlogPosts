@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11edd02ca5b108d0",
+        "id": "1ae4da0aed8b2e1f",
         "type": "tabs",
         "children": [
           {
-            "id": "e534f92fca87a77e",
+            "id": "4bd3e9ae1653c689",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
+                "file": "projects/dynamited/Minecraft Core Shader로 만드는 1인칭 플레이어 애니메이션.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 379.5106964111328
   },
   "right": {
     "id": "25c1488ae3338dd1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
+                "file": "projects/dynamited/Minecraft Core Shader로 만드는 1인칭 플레이어 애니메이션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
+                "file": "projects/dynamited/Minecraft Core Shader로 만드는 1인칭 플레이어 애니메이션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md"
+                "file": "projects/dynamited/Minecraft Core Shader로 만드는 1인칭 플레이어 애니메이션.md"
               }
             }
           }
@@ -147,19 +147,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e534f92fca87a77e",
+  "active": "4bd3e9ae1653c689",
   "lastOpenFiles": [
-    "posts/Minecraft Core Shader로 만드는 애니메이션 API.md",
-    "Minecraft Core Shader로 만드는 애니메이션 API.md",
+    "projects/dynamited/_index.md",
+    "projects/dynamited/Minecraft Core Shader로 만드는 1인칭 플레이어 애니메이션.md",
+    "projects/_index.md",
+    "Templates/Index Template.md",
     "posts/Test Posting.md",
+    "projects/dynamited",
     "posts/Remark42를 통한 댓글 시스템 구축.md",
     "posts/Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
+    "projects",
+    "Minecraft Core Shader로 만드는 애니메이션 API.md",
     "posts",
     "새 폴더",
-    "Untitled",
     "Remark42를 통한 댓글 시스템 구축.md",
     "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
-    "Templates/Untitled.md",
     "Templates/Basic Template.md",
     "Test Posting.md",
     "posts/github-pages를-사용해-정적-웹-페이지-블로그-만들기.md",
