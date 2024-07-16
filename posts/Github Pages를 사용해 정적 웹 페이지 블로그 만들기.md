@@ -4,14 +4,17 @@ description: Github Pages에 Hugo의 정적 웹 페이지를 올려 개인용 �
 tags:
   - GithubPages
   - Blog
+  - Git
 categories:
   - Blog
+  - Dev
 keywords:
   - Github
   - Github Pages
   - Hugo
 date: 2024-07-11T04:36:44+09:00
 draft: false
+isCJKLanguage: true
 weight: 10
 build:
   list: always

@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e13feef84d4cc623",
+        "id": "11edd02ca5b108d0",
         "type": "tabs",
         "children": [
           {
-            "id": "d1425cfa372616b7",
+            "id": "e534f92fca87a77e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remark42를 통한 댓글 시스템 구축.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e02f23492ce28c76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
+                "file": "posts/Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remark42를 통한 댓글 시스템 구축.md",
+                "file": "posts/Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Remark42를 통한 댓글 시스템 구축.md",
+                "file": "posts/Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Remark42를 통한 댓글 시스템 구축.md"
+                "file": "posts/Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md"
               }
             }
           }
@@ -159,15 +147,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d1425cfa372616b7",
+  "active": "e534f92fca87a77e",
   "lastOpenFiles": [
-    "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
-    "Remark42를 통한 댓글 시스템 구축.md",
-    "posts/github-pages를-사용해-정적-웹-페이지-블로그-만들기.md",
+    "posts/Minecraft Core Shader로 만드는 애니메이션 API.md",
+    "Minecraft Core Shader로 만드는 애니메이션 API.md",
+    "posts/Test Posting.md",
+    "posts/Remark42를 통한 댓글 시스템 구축.md",
+    "posts/Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
     "posts",
+    "새 폴더",
+    "Untitled",
+    "Remark42를 통한 댓글 시스템 구축.md",
+    "Github Pages를 사용해 정적 웹 페이지 블로그 만들기.md",
+    "Templates/Untitled.md",
     "Templates/Basic Template.md",
-    "2024-07-14.md",
     "Test Posting.md",
+    "posts/github-pages를-사용해-정적-웹-페이지-블로그-만들기.md",
+    "2024-07-14.md",
     "2024-07-1-Untitled.md",
     "2024-07-10-test.md",
     "Templates",

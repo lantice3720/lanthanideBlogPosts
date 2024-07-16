@@ -5,13 +5,16 @@ keywords:
   - 댓글
   - Remark42
 tags:
-  - Remark42
-  - Docker
   - nginx
+  - Network
+  - Server
+  - Web
 categories:
   - Blog
+  - Dev
 date: 2024-07-14T20:50:10+09:00
 draft: false
+isCJKLanguage: true
 aliases: 
 weight: 10
 build:
