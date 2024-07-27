@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/dynamited/Minecraft Core Shader로 만드는 1인칭 플레이어 애니메이션.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "927491dcb8231b18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/dynamited/애니메이션 API를 위한 프로젝트 구조 고안.md",
+                "file": "projects/screenbox/ScreenBox 기반 만들기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/dynamited/애니메이션 API를 위한 프로젝트 구조 고안.md",
+                "file": "projects/screenbox/ScreenBox 기반 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/dynamited/애니메이션 API를 위한 프로젝트 구조 고안.md",
+                "file": "projects/screenbox/ScreenBox 기반 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/dynamited/애니메이션 API를 위한 프로젝트 구조 고안.md"
+                "file": "projects/screenbox/ScreenBox 기반 만들기.md"
               }
             }
           }
@@ -160,13 +147,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "927491dcb8231b18",
+  "active": "4bd3e9ae1653c689",
   "lastOpenFiles": [
+    "[].md",
+    "projects/screenbox/ScreenBox 기반 만들기.md",
+    "projects/dynamited/Minecraft Core Shader로 만드는 1인칭 플레이어 애니메이션.md",
+    "projects/dynamited/애니메이션 API를 위한 프로젝트 구조 고안.md",
+    "projects/screenbox/_index.md",
     "projects/_index.md",
+    "projects/screenbox",
     "projects/dynamited/_index.md",
     "posts/_index.md",
-    "projects/dynamited/애니메이션 API를 위한 프로젝트 구조 고안.md",
-    "projects/dynamited/Minecraft Core Shader로 만드는 1인칭 플레이어 애니메이션.md",
     "Templates/Index Template.md",
     "posts/Test Posting.md",
     "projects/dynamited",
